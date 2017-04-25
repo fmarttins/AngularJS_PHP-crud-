@@ -1,0 +1,39 @@
+[24-Apr-2017 23:09:09 America/Recife] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ifernand/public_html/angular/dbconn.php on line 8
+[24-Apr-2017 23:09:10 America/Recife] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/ifernand/public_html/angular/select.php on line 4
+[24-Apr-2017 23:09:10 America/Recife] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ifernand/public_html/angular/select.php on line 6
+[24-Apr-2017 23:09:21 America/Recife] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ifernand/public_html/angular/dbconn.php on line 8
+[24-Apr-2017 23:09:21 America/Recife] PHP Warning:  mysqli::real_escape_string() [<a href='mysqli.real-escape-string'>mysqli.real-escape-string</a>]: Couldn't fetch mysqli in /home/ifernand/public_html/angular/insert.php on line 5
+[24-Apr-2017 23:09:21 America/Recife] PHP Warning:  mysqli::real_escape_string() [<a href='mysqli.real-escape-string'>mysqli.real-escape-string</a>]: Couldn't fetch mysqli in /home/ifernand/public_html/angular/insert.php on line 6
+[24-Apr-2017 23:09:21 America/Recife] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/ifernand/public_html/angular/insert.php on line 10
+[24-Apr-2017 23:09:21 America/Recife] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ifernand/public_html/angular/dbconn.php on line 8
+[24-Apr-2017 23:09:21 America/Recife] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/ifernand/public_html/angular/select.php on line 4
+[24-Apr-2017 23:09:21 America/Recife] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ifernand/public_html/angular/select.php on line 6
+[24-Apr-2017 23:09:23 America/Recife] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ifernand/public_html/angular/dbconn.php on line 8
+[24-Apr-2017 23:09:23 America/Recife] PHP Notice:  Undefined property: stdClass::$id in /home/ifernand/public_html/angular/insert.php on line 5
+[24-Apr-2017 23:09:23 America/Recife] PHP Warning:  mysqli::real_escape_string() [<a href='mysqli.real-escape-string'>mysqli.real-escape-string</a>]: Couldn't fetch mysqli in /home/ifernand/public_html/angular/insert.php on line 5
+[24-Apr-2017 23:09:23 America/Recife] PHP Notice:  Undefined property: stdClass::$name in /home/ifernand/public_html/angular/insert.php on line 6
+[24-Apr-2017 23:09:23 America/Recife] PHP Warning:  mysqli::real_escape_string() [<a href='mysqli.real-escape-string'>mysqli.real-escape-string</a>]: Couldn't fetch mysqli in /home/ifernand/public_html/angular/insert.php on line 6
+[24-Apr-2017 23:09:23 America/Recife] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/ifernand/public_html/angular/insert.php on line 10
+[24-Apr-2017 23:09:23 America/Recife] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ifernand/public_html/angular/dbconn.php on line 8
+[24-Apr-2017 23:09:23 America/Recife] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/ifernand/public_html/angular/select.php on line 4
+[24-Apr-2017 23:09:23 America/Recife] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ifernand/public_html/angular/select.php on line 6
+[24-Apr-2017 23:09:26 America/Recife] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ifernand/public_html/angular/dbconn.php on line 8
+[24-Apr-2017 23:09:26 America/Recife] PHP Warning:  mysqli::real_escape_string() [<a href='mysqli.real-escape-string'>mysqli.real-escape-string</a>]: Couldn't fetch mysqli in /home/ifernand/public_html/angular/insert.php on line 5
+[24-Apr-2017 23:09:26 America/Recife] PHP Warning:  mysqli::real_escape_string() [<a href='mysqli.real-escape-string'>mysqli.real-escape-string</a>]: Couldn't fetch mysqli in /home/ifernand/public_html/angular/insert.php on line 6
+[24-Apr-2017 23:09:26 America/Recife] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/ifernand/public_html/angular/insert.php on line 10
+[24-Apr-2017 23:09:26 America/Recife] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ifernand/public_html/angular/dbconn.php on line 8
+[24-Apr-2017 23:09:26 America/Recife] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/ifernand/public_html/angular/select.php on line 4
+[24-Apr-2017 23:09:26 America/Recife] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ifernand/public_html/angular/select.php on line 6
+[24-Apr-2017 23:09:47 America/Recife] PHP Notice:  Undefined variable: data in /home/ifernand/public_html/angular/select.php on line 10
+[24-Apr-2017 23:09:52 America/Recife] PHP Notice:  Undefined variable: data in /home/ifernand/public_html/angular/select.php on line 10
+[24-Apr-2017 23:12:24 America/Recife] PHP Notice:  Undefined variable: data in /home/ifernand/public_html/angular/select.php on line 10
+[24-Apr-2017 23:16:51 America/Recife] PHP Notice:  Undefined property: stdClass::$id in /home/ifernand/public_html/angular/insert.php on line 5
+[24-Apr-2017 23:16:57 America/Recife] PHP Notice:  Undefined property: stdClass::$id in /home/ifernand/public_html/angular/insert.php on line 5
+[24-Apr-2017 23:16:57 America/Recife] PHP Notice:  Undefined property: stdClass::$name in /home/ifernand/public_html/angular/insert.php on line 6
+[24-Apr-2017 23:16:57 America/Recife] PHP Notice:  Undefined property: stdClass::$id in /home/ifernand/public_html/angular/insert.php on line 5
+[24-Apr-2017 23:16:57 America/Recife] PHP Notice:  Undefined property: stdClass::$name in /home/ifernand/public_html/angular/insert.php on line 6
+[24-Apr-2017 23:17:01 America/Recife] PHP Notice:  Undefined property: stdClass::$id in /home/ifernand/public_html/angular/insert.php on line 5
+[24-Apr-2017 23:17:01 America/Recife] PHP Notice:  Undefined property: stdClass::$name in /home/ifernand/public_html/angular/insert.php on line 6
+[24-Apr-2017 23:17:01 America/Recife] PHP Notice:  Undefined property: stdClass::$id in /home/ifernand/public_html/angular/insert.php on line 5
+[24-Apr-2017 23:17:01 America/Recife] PHP Notice:  Undefined property: stdClass::$name in /home/ifernand/public_html/angular/insert.php on line 6
+[24-Apr-2017 23:18:03 America/Recife] PHP Notice:  Undefined variable: data in /home/ifernand/public_html/angular/select.php on line 10
